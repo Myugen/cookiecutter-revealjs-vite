@@ -1,0 +1,18 @@
+{
+  "arrowParens": "avoid",
+  "tabWidth": 2,
+  "bracketSpacing": true,
+  "useTabs": false,
+  "singleQuote": true,
+  "semi": false,
+  "overrides": [
+    {
+      "files": [
+        "*.html"
+      ],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}
