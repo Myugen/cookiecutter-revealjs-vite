@@ -10,11 +10,18 @@
 - Vite
 - Prettier
 
-## Getting Started
+## Usage
+
+First, you need to install the dependencies (if you have not already done):
 
 ```shell
-npm install
-npm run dev
+$ npm install
+```
+
+Now start the development server:
+
+```shell
+$ npm run dev
 ```
 
 The presentation will run locally at http://localhost:3000.
@@ -24,7 +31,7 @@ You can edit the `index.html` and `src/main.js` so that it reloads automatically
 ## Build
 
 ```shell
-npm run build
+$ npm run build
 ```
 
 It generates a `dist` folder containing all the statics of the presentation.
