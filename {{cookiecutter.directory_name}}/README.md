@@ -4,13 +4,13 @@
 
 {{ cookiecutter.project_description }}
 
-## Features
+## 🧾 Features
 
 - reveal.js
 - Vite
 - Prettier
 
-## Usage
+## ⚙️ Usage
 
 First, you need to install the dependencies (if you have not already done):
 
@@ -28,7 +28,7 @@ The presentation will run locally at http://localhost:3000.
 
 You can edit the `index.html` and `src/main.js` so that it reloads automatically.
 
-## Build
+## 📦 Build
 
 ```shell
 $ npm run build
